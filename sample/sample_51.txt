@@ -1,0 +1,41 @@
+[00:00:00] AGENTE: <LOCATION>. Les saluda Miguel. ¿Con quién tengo el gusto de hablar?
+[00:00:05] CLIENTE: Hola, buenas tardes. Soy Alejandra.
+[00:00:08] AGENTE: <LOCATION>. ¿Qué tal? ¿Cómo estás? Espero te encuentres bien. Cuénteme en qué te puedo ayudar el día de hoy.
+[00:00:15] CLIENTE: Eh, llamaba porque tengo problemas con mi factura, me está llegando un cobro extra que no entiendo y quería consultar sobre eso.
+[00:00:24] AGENTE: Sí.
+[00:00:26] CLIENTE: ¿Me indicas tu número de RUT para poder verificar tus datos en sistemas?
+[00:00:31] CLIENTE: 15-467-982-K.
+[00:00:34] AGENTE: Muchas gracias.
+[00:00:36] CLIENTE: ¿Me confías también tu nombre completo, por favor?
+[00:00:39] CLIENTE: <PERSON>.
+[00:00:41] AGENTE: ¿Y por último su dirección?
+[00:00:44] CLIENTE: Avenida Las Palmas, 235.
+[00:00:48] AGENTE: Ok, muchas gracias. Un momento, por favor. Voy a revisar tu servicio, no me cortes. Gracias. ¿Mencionaste que tienes un problema con la facturación, correcto?
+[00:01:37] CLIENTE: Sí, hay un cargo.
+[00:01:39] CLIENTE: De 5.990 que no entiendo.
+[00:01:42] AGENTE: Ya, perfecto.
+[00:01:45] AGENTE: Estoy revisando tu factura actual.
+[00:01:48] AGENTE: Me indica, por favor, desde cuándo notaste este cargo adicional, por favor.
+[00:01:54] CLIENTE: Solo en este mes.
+[00:01:56] CLIENTE: Es la primera vez.
+[00:01:58] AGENTE: Ya.
+[00:02:00] CLIENTE: <PERSON>.
+[00:02:03] AGENTE: Estoy revisando detalladamente.
+[00:02:47] AGENTE: Sí. Gracias por esperar. Veo que el cargo de 5.990 corresponde a un servicio adicional de streaming que se activó el día 15 del mes pasado. ¿Recuerdas haber aceptado este servicio?
+[00:03:12] AGENTE: Ya, perfecto, <PERSON>.
+[00:03:15] AGENTE: Revisando más a detalle, parece que este servicio fue parte de una promoción temporal que se activó automáticamente al cumplir tres meses con tu plan actual. La promoción incluía un mes gratis y luego comenzaba el cobro. Puedo desactivar este servicio inmediatamente si así lo deseas.
+[00:03:35] AGENTE: Y también podemos gestionar la devolución del monto cobrado.
+[00:03:39] CLIENTE: ¿Y eso de cuánto sería procesado?
+[00:03:42] AGENTE: Aproximadamente.
+[00:03:44] AGENTE: A ver, voy a ver los tiempos de devolución en un momento, por favor.
+[00:03:48] CLIENTE: Muchas gracias.
+[00:03:50] AGENTE: La devolución se procesaría en un plazo de 5 a 7 días hábiles y se reflejaría como un descuento en tu próxima factura. ¿Te parece bien proceder de esa manera?
+[00:04:02] CLIENTE: Sí, perfecto. Y por favor, que no se active ningún otro servicio sin mi autorización explícita.
+[00:04:10] AGENTE: Comprendo completamente y me disculpo por este inconveniente. Estoy colocando una nota en tu cuenta para que no se activen servicios promocionales automáticamente. ¿Hay algo más en lo que pueda ayudarte hoy?
+[00:04:23] CLIENTE: No, eso sería todo. Gracias por tu ayuda.
+[00:04:27] AGENTE: Ha sido un placer atenderte. Te confirmo que he desactivado el servicio de streaming y he iniciado el proceso de devolución por el monto de 5.990. Recibirás un mensaje de confirmación en los próximos minutos. ¿Hay algo más en lo que pueda asistirte?
+[00:04:42] CLIENTE: No, eso es todo. Gracias.
+[00:04:45] AGENTE: Perfecto. Muchas gracias por comunicarte con nosotros. Que tengas un excelente día.
+[00:04:51] CLIENTE: Igualmente, adiós.
+[00:04:53] AGENTE: Adiós.
+[00:04:55] SISTEMA: [LLAMADA FINALIZADA]
